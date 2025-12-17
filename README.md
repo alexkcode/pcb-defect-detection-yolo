@@ -125,3 +125,62 @@ Future directions:
 We thank the open-source community for providing datasets and tools. Special thanks to **Kim et al.** for their foundational work on skip-connected autoencoders for PCB defect detection, and to **Professor Ahmet Enis Cetin** for guidance on image processing fundamentals.
 
 ## References
+
+1. Kim, J., Ko, J., Choi, H., & Kim, H. (2021). **Printed Circuit Board Defect Detection Using Deep Learning via A Skip-Connected Convolutional Autoencoder**. *Sensors*, 21(15), 4968.  
+   [https://doi.org/10.3390/s21154968](https://www.mdpi.com/1424-8220/21/15/4968)
+
+2. Huang, W., & Wei, P. (2019). **A PCB Dataset for Defects Detection and Classification**. *arXiv preprint arXiv:1901.08204*.  
+   [https://arxiv.org/abs/1901.08204](https://arxiv.org/abs/1901.08204)
+
+3. Ultralytics. (2024). **Ultralytics YOLO11 - Ultralytics YOLO Docs**.  
+   [https://docs.ultralytics.com/models/yolo11/](https://docs.ultralytics.com/models/yolo11/)  
+   *Accessed: 2024-12-05*
+
+4. Ultralytics. (2025). **YOLO11 vs YOLOv8: Architectural Evolution and Performance Analysis**.  
+   [https://docs.ultralytics.com/compare/yolo11-vs-yolov8/](https://docs.ultralytics.com/compare/yolo11-vs-yolov8/)  
+   *Accessed: 2024-12-05*
+
+5. NVIDIA. (2023). **Train With Mixed Precision - NVIDIA Docs**.  
+   [https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/)  
+   *Accessed: 2024-12-05*
+
+6. TensorFlow. (2024). **GPU Memory Growth Configuration**.  
+   [https://www.tensorflow.org/guide/gpu](https://www.tensorflow.org/guide/gpu)  
+   *Accessed: 2024-12-05*
+
+7. PyTorch. (2024). **Memory Optimization Techniques for Efficient Deep Learning**.  
+   [https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html)  
+   *Accessed: 2024-12-05*
+
+8. OpenCV. (2024). **Image Preprocessing and Enhancement Techniques**.  
+   [https://docs.opencv.org/4.x/](https://docs.opencv.org/4.x/)  
+   *Accessed: 2024-12-05*
+
+9. Scikit-learn. (2024). **Model Evaluation Metrics**.  
+   [https://scikit-learn.org/stable/modules/model_evaluation.html](https://scikit-learn.org/stable/modules/model_evaluation.html)  
+   *Accessed: 2024-12-05*
+
+10. Google Colab. (2024). **Using GPUs and TPUs**.  
+    [https://colab.research.google.com/notebooks/gpu.ipynb](https://colab.research.google.com/notebooks/gpu.ipynb)  
+    *Accessed: 2024-12-05*
+
+11. Roboflow. (2024). **PCB Defect Detection Datasets**.  
+    [https://universe.roboflow.com/](https://universe.roboflow.com/)  
+    *Accessed: 2024-12-05*
+
+12. GeeksforGeeks. (2025). **Denoising AutoEncoders In Machine Learning**.  
+    [https://www.geeksforgeeks.org/machine-learning/denoising-autoencoders-in-machine-learning/](https://www.geeksforgeeks.org/machine-learning/denoising-autoencoders-in-machine-learning/)  
+    *Accessed: 2024-12-05*
+
+13. Medium. (2024). **Gradient Accumulation in PyTorch**.  
+    [https://medium.com/biased-algorithms/gradient-accumulation-in-pytorch-36962825fa44](https://medium.com/biased-algorithms/gradient-accumulation-in-pytorch-36962825fa44)  
+    *Accessed: 2024-12-05*
+
+14. Visionular. (2024). **Making Sense of PSNR, SSIM, VMAF**.  
+    [https://visionular.ai/vmaf-ssim-psnr-quality-metrics/](https://visionular.ai/vmaf-ssim-psnr-quality-metrics/)  
+    *Accessed: 2024-12-05*
+
+15. Pandey, A. K. (2024, March). **Structural Similarity Index (SSIM)**.  
+    [https://medium.com/@akp83540/structural-similarity-index-ssim-c5862bb2b520](https://medium.com/@akp83540/structural-similarity-index-ssim-c5862bb2b520)  
+    *Accessed: 2024-12-05*
+
